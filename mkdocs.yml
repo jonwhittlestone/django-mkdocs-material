@@ -11,7 +11,7 @@ site_author: Jon Whittlestone
 
 # Repository
 repo_name: jonwhittlestone/django-mkdocs-material
-# repo_url: https://github.com/jonwhittlestone/django-mkdocs-material
+repo_url: https://github.com/jonwhittlestone/django-mkdocs-material
 edit_uri: ""
 
 # Copyright
