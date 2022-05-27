@@ -1,4 +1,5 @@
-# mkdocs-in-django3
+# django-mkdocs-material
+
 Serve MkDocs from Django.
 
 The docs are accessible as a valid Django user.
