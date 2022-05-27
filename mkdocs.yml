@@ -1,0 +1,31 @@
+# Project information
+
+## START: Django
+docs_dir: 'mkdocs'
+site_dir: 'docs/static/mkdocs_build'
+## END: Django
+
+site_name: Django + MkDocs + Material
+site_description: Integrating MkDocs Material into Django 3.x
+site_author: Jon Whittlestone
+
+# Repository
+repo_name: jonwhittlestone/django-mkdocs-material
+# repo_url: https://github.com/jonwhittlestone/django-mkdocs-material
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright &copy; 2022 Jon Whittlestone'
+
+# Configuration
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+        - Home: index.md
+        - Sub Page: sub.md
+        - Section1:
+                - Label for Section 1 Page: section1/section1page.md
